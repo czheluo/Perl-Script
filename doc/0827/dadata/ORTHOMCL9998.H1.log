@@ -1,0 +1,29 @@
+CODONML in paml version 4.9f, October 2017
+
+       80 bytes for distance
+   120048 bytes for conP
+     3936 bytes for fhK
+  5000000 bytes for space
+
+2 branch types are in tree. Stop if wrong.
+TREE #  1
+(((4, 3), 2), 5, 1);   MP score: 145
+   180072 bytes for conP, adjusted
+
+ntime & nrate & np:     7     2    11
+branch=0  freq=0.766178 w0 = 0.222716
+branch=0  freq=0.233822 w1 = 1.000000
+			Qfactor for branch 0 = 8.430088
+branch=1  freq=0.633065 w0 = 0.222716
+branch=1  freq=0.193199 w1 = 1.000000
+branch=1  freq=0.173736 w2 = 1.000000
+			Qfactor for branch 1 = 7.386791
+w[0] = 0.222716
+w[1] = 1.000000
+w[2] = 1.000000
+Out..
+lnL  = -1173.320836
+742 lfun, 3710 eigenQcodon, 20776 P(t)
+end of tree file.
+
+Time used:  0:11

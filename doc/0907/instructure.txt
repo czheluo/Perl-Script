@@ -1,0 +1,13 @@
+##map not right with empty
+
+Fragaria_vesca_v4.0.a1.fasta|perl -ne 'chomp;@a=split; next if(/^$/ ||$a[0] eq ""); print "$_\n"' >Fragaria_vesca.fa
+
+samtools faidx Fragaria_vesca.fa
+
+head -n7 Fragaria_vesca.fa.fai|cut -f1,2 >chrlength.map
+
+le mappp.mp|cut -f1,4,5|grep Fvb|perl -ne '@a=split;@b=split(/\:/,$a[0]);print "$b[0]\t$a[1]\t$a[2]\n"' >mappp.map
+
+perl /mnt/ilustre/users//long.huang/bin/Bin/old/genetic_map/v1.2.1/graph/drawAligmentRalationMap.pl -m ../mapp1.map -a mapp1.map -k map1 -o ./
+
+cairosvg -f png map1.svg >map1.png

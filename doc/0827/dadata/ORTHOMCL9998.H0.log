@@ -1,0 +1,37 @@
+CODONML in paml version 4.9f, October 2017
+
+       80 bytes for distance
+   120048 bytes for conP
+     3936 bytes for fhK
+  5000000 bytes for space
+
+2 branch types are in tree. Stop if wrong.
+TREE #  1
+(((4, 3), 2), 5, 1);   MP score: 145
+   180072 bytes for conP, adjusted
+
+ntime & nrate & np:     7     3    12
+branch=0  freq=0.735729 w0 = 0.205791
+branch=0  freq=0.264271 w1 = 1.000000
+			Qfactor for branch 0 = 8.302979
+branch=1  freq=0.604543 w0 = 0.205791
+branch=1  freq=0.217150 w1 = 1.000000
+branch=1  freq=0.178307 w2 = 2.580606
+			Qfactor for branch 1 = 5.466084
+w[0] = 0.205791
+w[1] = 1.000000
+w[2] = 2.580606
+Out..
+lnL  = -1173.320836
+890 lfun, 4450 eigenQcodon, 24920 P(t)
+
+BEBing (dim = 4).  This may take many minutes.
+Calculating f(x_h|w) for 121 w's
+	   10 / 121 sets.  w for branches:  0.9500 0.9500 lnfX = -1441.1466	   20 / 121 sets.  w for branches:  0.0500 9.5000 lnfX = -1288.7148	   30 / 121 sets.  w for branches:  0.1500 9.5000 lnfX = -1293.1339	   40 / 121 sets.  w for branches:  0.2500 9.5000 lnfX = -1322.0349	   50 / 121 sets.  w for branches:  0.3500 9.5000 lnfX = -1355.9889	   60 / 121 sets.  w for branches:  0.4500 9.5000 lnfX = -1390.8654	   70 / 121 sets.  w for branches:  0.5500 9.5000 lnfX = -1425.1521	   80 / 121 sets.  w for branches:  0.6500 9.5000 lnfX = -1458.1940	   90 / 121 sets.  w for branches:  0.7500 9.5000 lnfX = -1489.7050	  100 / 121 sets.  w for branches:  0.8500 9.5000 lnfX = -1519.5818	  110 / 121 sets.  w for branches:  0.9500 9.5000 lnfX = -1547.8185	  120 / 121 sets.  w for branches:  1.0000 9.5000 lnfX = -1561.3352	  121 / 121 sets.  w for branches:  1.0000 10.5000 lnfX = -1573.1061
+Time:  0:10
+Calculating the marginal likelihood f(X).
+	1000 / 10000 grid points,  0:10	2000 / 10000 grid points,  0:10	3000 / 10000 grid points,  0:10	4000 / 10000 grid points,  0:10	5000 / 10000 grid points,  0:10	6000 / 10000 grid points,  0:10	7000 / 10000 grid points,  0:10	8000 / 10000 grid points,  0:10	9000 / 10000 grid points,  0:10	10000 / 10000 grid points,  0:10	log(fX) = -1180.722857  S = -1106.092142   -77.221116
+Calculating f(w_k|X), posterior for site classes for each site.  Slow!
+	did  10 / 123 site patterns   0:10	did  20 / 123 site patterns   0:10	did  30 / 123 site patterns   0:10	did  40 / 123 site patterns   0:11	did  50 / 123 site patterns   0:11	did  60 / 123 site patterns   0:11	did  70 / 123 site patterns   0:11	did  80 / 123 site patterns   0:11	did  90 / 123 site patterns   0:11	did 100 / 123 site patterns   0:11	did 110 / 123 site patterns   0:11	did 120 / 123 site patterns   0:11	did 123 / 123 site patterns   0:11end of tree file.
+
+Time used:  0:11
