@@ -17,7 +17,6 @@ GetOptions(
 
 
 
-
 #######################################################################################
 print STDOUT "\nDone. Total elapsed time : ",time()-$BEGIN_TIME,"s\n";
 #######################################################################################
@@ -48,13 +47,11 @@ Description:
 
 	eg: perl -int filename -out filename 
 	
-
 Usage:
   Options:
 	-int input file name
 	-out ouput file name 
 	-h         Help
-
 USAGE
         print $usage;
         exit;
