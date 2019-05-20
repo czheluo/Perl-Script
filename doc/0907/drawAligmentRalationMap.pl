@@ -434,7 +434,7 @@ sub USAGE {#
 	my $usage=<<"USAGE";
 Program: $0
 Version: $version
-Contact: Li Tiancheng <litc\@biomarker.com.cn> <ltc_gs\@qq.com>
+Contact: meng.luo\@majorbio.com;
 
 	map file: 
 	  group X
