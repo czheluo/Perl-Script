@@ -76,9 +76,10 @@ foreach my $ids (sort keys %stat) {
 	}
 	#print Dumper @out1;die;
 	print Out1 join("\t",$ids,@out1),"\n";
-	print Out2 join("\t",$ids,@out1),"\n";
+	print Out2 join("\t",$ids,@out2),"\n";
 }
-close Out;
+close Out1;
+close Out2;
 #######################################################################################
 print STDOUT "\nDone. Total elapsed time : ",time()-$BEGIN_TIME,"s\n";
 #######################################################################################
