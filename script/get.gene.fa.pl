@@ -98,7 +98,7 @@ Contact:        meng.luo\@majorbio.com;
 Script:			$Script
 Description:
 
-	eg:perl $Script -gene new.x.csv -gtf ref.gff -out gene.anno  
+	eg:perl $Script -gene list -gff Teaplant_CSS.gff3 -fa Teaplant_CSS_Genome.fas -out ./  
 	
 
 Usage:
