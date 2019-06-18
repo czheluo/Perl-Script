@@ -1,3 +1,3 @@
-# Small Script tools 
+# Script tools (pipeline) for bioinformatics analysis 
 
 
