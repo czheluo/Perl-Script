@@ -113,15 +113,15 @@ Contact:        meng.luo\@majorbio.com;
 Script:			$Script
 Description:
 
-	eg:perl $Script -gene new.x.csv -gtf ref.gff -out gene.anno  
+	eg:perl $Script -list uniq.list -gff ref.gff -out 10k.region
 	
 
 Usage:
   Options:
   	gene
-	"gene:s"=>\$fin,
-	"gtf:s"=>\$gtf,
-	"out:s"=>\$fout,
+	"list:s"=>\$list, #marker list(chr1_28743659)
+	"gff:s"=>\$gff,#ref.gff file
+	"out:s"=>\$fout, #output file name
 USAGE
         print $usage;
         exit;
