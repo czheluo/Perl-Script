@@ -74,7 +74,6 @@ Script:			$Script
 Description:
 
 	eg: perl $Script -int IBDV_3.mapped -out ./ -bwt IBDV_3.bwt
-	
 
 Usage:
   Options:
@@ -82,7 +81,6 @@ Usage:
 	-out ouput dir name 
 	-bwt the result of bowtie
 	-h         Help
-
 USAGE
         print $usage;
         exit;
