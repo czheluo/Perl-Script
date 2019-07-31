@@ -73,7 +73,7 @@ Contact:        meng.luo\@majorbio.com;
 Script:			$Script
 Description:
 
-	eg: perl -int filename -out filename 
+	eg: perl $Script -int IBDV_3.mapped -out ./ -bwt IBDV_3.bwt
 	
 
 Usage:
