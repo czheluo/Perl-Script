@@ -44,13 +44,12 @@ sub USAGE {#
 Contact:        meng.luo\@majorbio.com;
 Script:			$Script
 Description:
-
 	eg: perl -int filename -out filename 
-	
+
 Usage:
   Options:
 	-int input file name
-	-out ouput file name 
+	-out output file name 
 	-h         Help
 USAGE
         print $usage;
