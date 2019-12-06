@@ -97,7 +97,7 @@ Contact:        meng.luo\@majorbio.com;
 Script:			$Script
 Description:
 
-	eg: perl -int filename -out filename 
+	eg: perl $Script -fa1 genome.predicted_RNA.fa -fa2 genome.tar.fa -table RNAplex.xls -out RNAplex.fa.xls
 	
 Usage:
   Options:
