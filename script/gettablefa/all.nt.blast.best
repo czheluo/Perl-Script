@@ -1,0 +1,28 @@
+#Query_id	Query_length	Query_start	Query_end	Subject_id	Subject_length	Subject_start	Subject_end	Identity	Positive	Gap	Align_length	Score	E_value	Query_annotation	Subject_annotation
+6275227	128	84	120	gnl|BL_ORD_ID|23357413	1917	121	85	37/37(100.00)	--	0	37	69	2.31356e-08	--	XM_013132717.1 PREDICTED: Esox lucius basic proline-rich protein-like (LOC106024004), mRNA
+6336867	120	2	62	gnl|BL_ORD_ID|44064307	5873297	1616784	1616724	58/61(95.08)	--	0	61	97	9.72834e-17	--	CP027773.1 Variovorax sp. PMC12 chromosome 1, complete sequence
+9891314	120	1	55	gnl|BL_ORD_ID|43185238	6289439	2405082	2405136	54/55(98.18)	--	0	55	97	9.72834e-17	--	CP026881.1 Pseudomonas sp. LG1D9 chromosome, complete genome
+12118441	120	10	44	gnl|BL_ORD_ID|34758874	6987670	3808706	3808739	34/35(97.14)	--	1	35	58	4.59065e-05	--	CP019038.1 Massilia putida strain 6NM-7T, complete genome
+12172626	120	20	60	gnl|BL_ORD_ID|15222229	543	195	235	39/42(92.86)	--	2	42	60	1.27637e-05	--	KC547334.1 Lerista lineopunctulata isolate LL66a anonymous locus L115 genomic sequence KC547336.1 Lerista lineopunctulata isolate LL67a anonymous locus L115 genomic sequence
+12678365	120	17	56	gnl|BL_ORD_ID|40657416	9611874	9562898	9562856	40/43(93.02)	--	3	43	60	1.27637e-05	--	CP022685.1 Streptomyces formicae strain KY5 chromosome, complete genome
+13348817	120	71	120	gnl|BL_ORD_ID|15252785	2455	1516	1563	48/50(96.00)	--	2	50	80	9.79741e-12	--	KF723001.1 Andrias davidianus MHC class II antigen beta chain 1 mRNA, complete cds
+14295097	120	1	57	gnl|BL_ORD_ID|8491081	4317083	2859215	2859159	54/57(94.74)	--	0	57	89	1.6279e-14	--	FP929003.1 Candidatus Nitrospira defluvii chromosome, complete genome
+15500837	120	1	63	gnl|BL_ORD_ID|35498143	6288464	2067991	2068053	62/63(98.41)	--	0	63	111	3.47427e-21	--	CP019510.1 Janthinobacterium sp. LM6, complete genome
+16319669	120	1	95	gnl|BL_ORD_ID|40672157	4615599	3088826	3088732	94/95(98.95)	--	0	95	171	5.65147e-39	--	CP023817.1 Aeromonas sp. CU5 chromosome, complete genome
+16663372	120	1	75	gnl|BL_ORD_ID|7619606	6359369	1209913	1209987	64/75(85.33)	--	0	75	78	3.52378e-11	--	CP001854.1 Conexibacter woesei DSM 14684, complete genome
+17208954	120	3	84	gnl|BL_ORD_ID|44968938	4319112	4241249	4241330	77/82(93.90)	--	0	82	124	4.46257e-25	--	CP025997.1 Stenotrophomonas sp. YAU14D1_LEIMI4_1 chromosome
+17928356	120	1	55	gnl|BL_ORD_ID|40513194	6196004	4282619	4282565	55/55(100.00)	--	0	55	102	2.09097e-18	--	CP023720.1 Rhodococcus sp. H-CA8f chromosome, complete genome
+18108995	120	1	53	gnl|BL_ORD_ID|28133824	5179353	3213033	3212981	52/53(98.11)	--	0	53	93	1.25844e-15	--	CP015220.1 Rhodococcus sp. PBTS2, complete genome
+18621360	120	1	65	gnl|BL_ORD_ID|23675797	5420910	1514509	1514445	64/65(98.46)	--	0	65	115	2.68577e-22	--	CP011112.1 Luteipulveratus mongoliensis strain MN07-A0370 genome
+18943395	120	1	67	gnl|BL_ORD_ID|11138165	3806980	1706099	1706165	62/67(92.54)	--	0	67	97	9.72834e-17	--	CP003153.1 Dechlorosoma suillum PS, complete genome
+20176301	120	1	62	gnl|BL_ORD_ID|23758870	6998154	5929876	5929815	60/62(96.77)	--	0	62	104	5.81368e-19	--	CP010945.1 Pseudomonas fluorescens NCIMB 11764, complete genome
+20621799	120	1	80	gnl|BL_ORD_ID|5579571	153222	148087	148008	80/80(100.00)	--	0	80	148	2.64804e-32	--	AC226119.2 Homo sapiens BAC clone CH15-135B10 from chromosome 4, complete sequence
+20865502	120	1	44	gnl|BL_ORD_ID|40035790	6274078	3479356	3479313	44/44(100.00)	--	0	44	82	2.72405e-12	--	CP023422.1 Janthinobacterium svalbardensis strain PAMC 27463 chromosome, complete genome
+20951317	120	1	55	gnl|BL_ORD_ID|26449537	5169161	801057	801003	54/55(98.18)	--	0	55	97	9.72834e-17	--	CP013692.1 Paucibacter sp. KCTC 42545, complete genome
+21058584	120	2	55	gnl|BL_ORD_ID|6544280	5626353	1572	1625	51/54(94.44)	--	0	54	84	7.57386e-13	--	CP001635.1 Variovorax paradoxus S110 chromosome 1, complete sequence
+21342477	120	1	51	gnl|BL_ORD_ID|45042755	2367	1100	1050	47/51(92.16)	--	0	51	73	1.63945e-09	--	XM_025029821.1 PREDICTED: Temnothorax curvispinosus protein sly1 homolog (LOC112463415), mRNA
+21392096	120	1	58	gnl|BL_ORD_ID|38739216	4476936	604365	604308	57/58(98.28)	--	0	58	102	2.09097e-18	--	CP016434.1 Burkholderia sp. AD24 chromosome I sequence
+21517776	120	1	64	gnl|BL_ORD_ID|26449537	5169161	524255	524319	61/65(93.85)	--	1	65	97	9.72834e-17	--	CP013692.1 Paucibacter sp. KCTC 42545, complete genome
+21657627	120	1	62	gnl|BL_ORD_ID|16701804	1787110	93688	93627	58/62(93.55)	--	0	62	93	1.25844e-15	--	AP014577.1 Burkholderia sp. RPE67 DNA, complete genome, chromosome: 2
+22183401	120	1	57	gnl|BL_ORD_ID|26449537	5169161	772690	772746	53/57(92.98)	--	0	57	84	7.57386e-13	--	CP013692.1 Paucibacter sp. KCTC 42545, complete genome
+23057761	120	1	61	gnl|BL_ORD_ID|9334446	6550056	2763280	2763220	60/61(98.36)	--	0	61	108	4.49425e-20	--	CP002417.1 Variovorax paradoxus EPS, complete genome
