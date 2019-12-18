@@ -1,0 +1,133 @@
+>MIR1023a
+total read count                        2
+miR1023a-5p read count                  1
+miR1023a-3p read count                  0
+remaining read count                    1
+exp                                     fffffffffffffffffffffffffffffffff555555555555555555555fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff333333333333333333333ffffffffffffffffffffffffffffff
+pri_seq                                 gggagcgauuggaccaccuugcaguuucauggcacacucucuccauuucucuaccguucaugcagcgguugaucgauuggguugcugguugauugaucgaucgauggucaggaguuggaagagaauuggagagagugcauugugaauugcgggguugacgaggcggaggg
+pri_struct                              ....((..(((..(.(((((((((((.(((((..(((((((((((.((((((.(((.((...((.(((((((((((((((.(....).))))))))))))))).)).....))..))).)))))).)))))))))))..)))))))))))))))).).))).))......	#MM
+S08_33224178_x1                         ..................................cacucucuccauuucuUu......................................................................................................................	1
+S02_2775040_x1                          ................................................................................................................aguuggaagagaauuggaAa......................................	1
+
+
+
+>MIR1023b
+total read count                        1
+miR1023b-3p read count                  0
+remaining read count                    1
+exp                                     fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff333333333333333333333ffffffffffffffffffffffffffffff
+pri_seq                                 gaagcgcggcgggccagcuugcaauuucaugacacacucucuccauuucucugccugucaugacuugguugaucgauggagcggugguuuucauugcccgauugaggaucaggaguuggggagagaauugaagagagugcauugugaauugcaagcuccuccuuucuuuucg
+pri_struct                              ((((...((.(((..(((((((((((.(((((..((((((((.((.((((((.(((...((..(((((((..(((((((.((((((.....)))))))).))))).))))))).)).))).)))))).)).))))))))..)))))))))))))))))))))...))))...	#MM
+S08_33224178_x1                         ..................................cacucucuccauuucuUu........................................................................................................................	1
+
+
+
+>MIR1023c
+total read count                        2
+miR1023c-5p read count                  0
+miR1023c-3p read count                  0
+remaining read count                    2
+exp                                     fffffffffffffffffffffffffffff5555555555555555555555ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff333333333333333333333ffffffffffffffffffffffffff
+pri_seq                                 gcgcaguuacacagcuugcauuucgguguccacucucuccguuucccuucccaugauggcuagccuugaguaaguacauauguuuugaacacauguaugcuugcuuaaaauccuuugucggagggaaucggaaagaguguacaaugaauugcaagcuugauugauucg
+pri_struct                              ...((((((...((((((((.((((.(((.((((((.((((.((((((.((.((((.((......(((((((((((.((((((.......)))))).)))))))))))...)).)))).)))))))).)))).)))))).))).)))).)))))))))))))).....	#MM
+S40_11332724_x1                         ..................................................................................................................uugucggagggaaGcgga....................................	1
+S49_53639474_x1                         ....................................................................................................................................................uugcaagUuugauugauu..	1
+
+
+
+>MIR1023e
+total read count                        
+miR1023e-3p read count                  0
+remaining read count                    0
+exp                                     fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff333333333333333333333ffffffffffffffffffff
+pri_seq                                 acagcuuugaaugucaucauacacucucuccguuucccuuccgaaucguuuuuccccucaugcacuggaaacuguuggaagggaaucggguggagugcaucaugaucugcaagcuccgac
+pri_struct                              ..(((((.(...(((((.((.((((((.((((.(((((((((((......(((((...........)))))...))))))))))).)))).)))))).)).)))))...)))))).....	#MM
+
+
+
+>MIR1024a
+total read count                        
+miR1024a read count                     0
+remaining read count                    0
+exp                                     fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffMMMMMMMMMMMMMMMMMMMMMffffffffffffffffffffffffffffff
+pri_seq                                 ggacgagaucgcggccgucaugaguuuugucgacgcccugcaauucaagcagacucgauuacaauguuugccgccgacgucacgcaugucacgugguuauuuguacuucagucugguuggauuguaggccuccgcaaggcuucaugacucacucaacugcug
+pri_struct                              ((.((......)).))((((((((((((((.((.(((.((((((((((.((((((.((.(((((.....(((((.(((((.....)))))..)))))...)))))..)))))))).))))))))))))).)).))))))).)))))))..............	#MM
+
+
+
+>MIR1025
+total read count                        
+miR1025 read count                      0
+remaining read count                    0
+exp                                     fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffMMMMMMMMMMMMMMMMMMMMMffffffffffffffffffffffffffffff
+pri_seq                                 guuccggugcaaggucguguugaggagucguguuuuuaguuuuguugugggcuguaaggguggcugcgggagaaauuauuaucauucugcgggauguccucuacccacuccgccuucccugucuguugucgagugggggucucgccugcuccuuccuucugccacaacaaagcuaauaacucgacucauccugacaccacgucucuggcu
+pri_struct                              ...((((.(..(.((.(((((((.((((((.(((.(((((((((((((((.(.(.(((((.((..(((((.((.........(((((....))))).......(((((((.((..............)).)))))))....)).))))).)).)))))).)))))))))))))))).))).)))))).))..))))).)).)).))))..	#MM
+
+
+
+>MIR1026a
+total read count                        1
+miR1026a read count                     0
+remaining read count                    1
+exp                                     fffffffffffffffffffffffffffffMMMMMMMMMMMMMMMMMMMMMfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+pri_seq                                 augaaaguucuugagacacucucuaggucugagaaagacuugagaggacacuccuacaauagccucgggaacugcaugacguuuuucauuagaugaggugguucccugagcauuugcaggacaguucuuucaagccuuccucggacuuuggauuguuuguuccauaucaug
+pri_struct                              ((((.........(((((.(((..(((((((((.(((.(((((((((((..((((.(((..((.(((((((((((....(((((......)))))..))))))))).))))..))).))))..))))))))))).))).))))))))).))).)))))........)))).	#MM
+S13_60584248_x1                         .................................................................................................................................................cuuuggauuguuuguuUc........	1
+
+
+
+>MIR1027b
+total read count                        1
+miR1027b read count                     0
+remaining read count                    1
+exp                                     fffffffffffffffffffffffffffffffffMMMMMMMMMMMMMMMMMMMMMffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+pri_seq                                 gugcaagagcagauacuuaagucgaagagcaucuuucuaucuucucuuccaaucuauugaucugcccuuccaauacuaucagaucaauagauuggaagagcagaucgaaaaaugcucucaccuuaaggagagacagcgacuc
+pri_struct                              .(((....)))....((((((..((.((((((.((((.((((.(((((((((((((((((((((...............))))))))))))))))))))).)))).)))).))))))))..))))))..(((.......)))	#MM
+S02_16308327_x1                         .....................................................................Ucaauacuaucagaucaaua.....................................................	1
+
+
+
+>MIR1028a
+total read count                        2
+miR1028a-5p read count                  0
+miR1028a-3p read count                  0
+remaining read count                    2
+exp                                     fffffffffffffffffffffffffffff555555555555555555555ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff333333333333333333333ffffffffffffffffffffffffff
+pri_seq                                 acccgauuuaccuucacaucuguuccagcucuuagaucuacaaugucacaugaacacauacuugguaacgaaucuggcaguaagacuucauuuauauggguccauuccgcuccaagcuuucacaucugugacagauuuagcaauauagugaaaaucugaccguuggugaugcaacugaagcaaguuuucacgugacauuguagaucuacgugccggauuaguggugaaagccucaaguu
+pri_struct                              ..........(.(((((..(((.(((.((.(.(((((((((((((((((.((((.((...(((((..........(((.(...((((.(((....)))))))....).))))))))...((((....))))(((((((.((......))..))))))).(.((((......)))).)......)).)))).))))))))))))))))).).)).))).)))..))))).).........	#MM
+S08_12737823_x1                         ..............................................................................aguaGgacuucauuuaua...............................................................................................................................................	1
+S46_12423783_x1                         ..............................................................................................................................................auauagugaaaaucAgacc..............................................................................	1
+
+
+
+>MIR1028b
+total read count                        
+miR1028b-3p read count                  0
+miR1028b-5p read count                  0
+remaining read count                    0
+exp                                     fffffffffffffffffffffffffffff555555555555555555555fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff333333333333333333333ffffffffffffffffffffffffff
+pri_seq                                 caaacaagcaaauccauucuuggacuaguucuuagaucuacaaugccaccuacaacagcaauacuuaagguuaugagaagauaucuaucaugcucucuggagugugguccucuucuuacaaucuuaaauuuuaaauuucuugaaaggcggcauuguggaccuaagaccuuggucaaguguggaauaaggcuaaa
+pri_struct                              ......(((...(((((.((((.(((((.((((((.(((((((((((.(((.(((.........((((((((.((((((((.....(((((((((....)))))))))..)))))))).))))))))............)))..))).))))))))))).)))))).).)))))))).))))).....)))...	#MM
+
+
+
+>MIR1028c
+total read count                        
+miR1028c-3p read count                  0
+miR1028c-5p read count                  0
+remaining read count                    0
+exp                                     fffffffffffffffffffffffffffffffff555555555555555555555ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff333333333333333333333ffffffffffffffffffffffffffffff
+pri_seq                                 cgaagacauggaagauuucauccgcgaccuugcucuuagaucuacaaugccucuugcgaaacugacagcggaauaccggacuuuuauuugaucaugauggaauccacaugugccucauacuucaggaauccaugcgguccaccauguggcauuguagguuuaagagcugugccgcggguggauugaugaucaccugu
+pri_struct                              ....(((((.((....((((((((((.(...((((((((((((((((((((.....((((........(((....)))........))))..((((.((((..((.((((..(((........)))....)))).)))))).)))).))))))))))))))))))))...).)))))))))))).))).))......	#MM
+
+
+
+>MIR1029
+total read count                        3
+miR1029 read count                      0
+remaining read count                    3
+exp                                     fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffMMMMMMMMMMMMMMMMMMMMfffffffffffffffffffffffffffffff
+pri_seq                                 gcacacaaugugcacacguuacaucacuaucaguauuuuugguuugagagaaaggaggacaggaggcuacgagauuuguuuguguuugauucuugggcgaacuccucucucucaaccaaccauacugauacuaauugacguucgaaguuugugcuu
+pri_struct                              (((((.(((......((((((......(((((((((..((((((.((((((.(((((..(.....(((.(((((.(((........))).)))))))))..))))).))))))))))))..))))))))).....)))))).....))))))))..	#MM
+S39_3557400_x2                          ...........................uaucaguauCuuugguuu...............................................................................................................	1
+S19_30571890_x1                         ...................................................................................................................cGaaccauacugauacua.......................	1
