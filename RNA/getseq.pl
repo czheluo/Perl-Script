@@ -73,7 +73,7 @@ sub ABSOLUTE_DIR #$pavfile=&ABSOLUTE_DIR($pavfile);
 
 sub USAGE {           #5
         my $usage=<<"USAGE";
-Contact:	tong.wang\@majorbio.com
+Contact:	meng.luo\@majorbio.com
 Version:	$version
 Script:		$Script
 Description:	
