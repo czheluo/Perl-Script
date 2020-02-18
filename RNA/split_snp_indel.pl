@@ -21,7 +21,7 @@ GetOptions(
 sub USAGE {                    #4
         my $usage=<<"USAGE";
 
-Contact:	tong.wang\@majorbio.com
+Contact:	meng.luo\@majorbio.com
 Script:		$Script
 Version:	v$version
 
