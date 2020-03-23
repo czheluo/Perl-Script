@@ -1,0 +1,1000 @@
+LOC111349327	ABC transporters
+LOC111349060	ABC transporters
+LOC111353186	Adipocytokine signaling pathway
+LOC111353186	Fatty acid degradation
+LOC111353186	Fatty acid biosynthesis
+LOC111353186	PPAR signaling pathway
+LOC111361994	Alanine, aspartate and glutamate metabolism
+LOC111359491	Alanine, aspartate and glutamate metabolism
+LOC111359491	Purine metabolism
+LOC111351856	alpha-Linolenic acid metabolism
+LOC111351856	PPAR signaling pathway
+LOC111351856	cAMP signaling pathway
+LOC111351856	Biosynthesis of unsaturated fatty acids
+LOC111351856	Fatty acid degradation
+LOC111351856	Peroxisome
+LOC111348893	Alzheimer disease
+LOC111348893	Cocaine addiction
+LOC111348893	Axon guidance
+LOC111360581	Alzheimer disease
+LOC111360581	Valine, leucine and isoleucine degradation
+LOC111348796	Alzheimer disease
+LOC111348796	Valine, leucine and isoleucine degradation
+LOC111350676	Amino sugar and nucleotide sugar metabolism
+LOC111363485	Amino sugar and nucleotide sugar metabolism
+LOC111363485	Fructose and mannose metabolism
+LOC111363485	Neomycin, kanamycin and gentamicin biosynthesis
+LOC111363485	Galactose metabolism
+LOC111363485	Glycolysis / Gluconeogenesis
+LOC111363485	Starch and sucrose metabolism
+LOC111363485	HIF-1 signaling pathway
+LOC111363485	Carbohydrate digestion and absorption
+LOC111363485	Insulin signaling pathway
+LOC111363485	Central carbon metabolism in cancer
+LOC111363485	Type II diabetes mellitus
+LOC111349235	Amino sugar and nucleotide sugar metabolism
+LOC111349235	Galactose metabolism
+LOC111348683	Amino sugar and nucleotide sugar metabolism
+LOC111348683	Pentose and glucuronate interconversions
+LOC111348683	Starch and sucrose metabolism
+LOC111348683	Galactose metabolism
+LOC111359195	Aminoacyl-tRNA biosynthesis
+LOC111359806	Aminoacyl-tRNA biosynthesis
+LOC111360071	Aminoacyl-tRNA biosynthesis
+LOC111363400	Aminoacyl-tRNA biosynthesis
+LOC111365061	Aminoacyl-tRNA biosynthesis
+LOC111350532	Aminoacyl-tRNA biosynthesis
+LOC111351109	Aminoacyl-tRNA biosynthesis
+LOC111351248	Aminoacyl-tRNA biosynthesis
+LOC111352395	Aminoacyl-tRNA biosynthesis
+LOC111352406	Aminoacyl-tRNA biosynthesis
+LOC111354119	Aminoacyl-tRNA biosynthesis
+LOC111354311	Aminoacyl-tRNA biosynthesis
+LOC111363568	Amyotrophic lateral sclerosi
+LOC111358766	Antifolate resistance
+LOC111358766	Folate biosynthesis
+LOC111353417	Antifolate resistance
+LOC111353417	Folate biosynthesis
+LOC111362661	Antifolate resistance
+LOC111362661	Sphingolipid signaling pathway
+LOC111362661	ABC transporters
+LOC111362661	Vitamin digestion and absorption
+LOC111362661	MicroRNAs in cancer
+LOC111350923	Apoptosis
+LOC111353585	Apoptosis
+LOC111353585	Apoptosis - fly
+LOC111360792	Arachidonic acid metabolism
+LOC111361909	Arachidonic acid metabolism
+LOC111361909	Chemical carcinogenesis
+LOC111361909	Folate biosynthesis
+LOC111361909	Metabolism of xenobiotics by cytochrome P450
+LOC111351692	Arachidonic acid metabolism
+LOC111351692	Chemical carcinogenesis
+LOC111351692	Folate biosynthesis
+LOC111351692	Metabolism of xenobiotics by cytochrome P450
+LOC111353905	Arachidonic acid metabolism
+LOC111353905	Glutathione metabolism
+LOC111353905	Chemical carcinogenesis
+LOC111353905	Drug metabolism - cytochrome P450
+LOC111353905	Metabolism of xenobiotics by cytochrome P450
+LOC111352505	Arginine and proline metabolism
+LOC111352505	beta-Alanine metabolism
+LOC111364067	Arginine biosynthesis
+LOC111364067	Tyrosine metabolism
+LOC111364067	Cysteine and methionine metabolism
+LOC111364067	Arginine and proline metabolism
+LOC111364067	Alanine, aspartate and glutamate metabolism
+LOC111364067	Phenylalanine metabolism
+LOC111364067	Phenylalanine, tyrosine and tryptophan biosynthesis
+LOC111360397	Ascorbate and aldarate metabolism
+LOC111360397	Inositol phosphate metabolism
+LOC111347747	Basal transcription factors
+LOC111347747	Viral carcinogenesis
+LOC111347747	Nucleotide excision repair
+LOC111350363	Base excision repair
+LOC111349494	Biosynthesis of unsaturated fatty acids
+LOC111349494	Fatty acid elongation
+LOC111349677	Biosynthesis of unsaturated fatty acids
+LOC111349677	Fatty acid elongation
+LOC111349314	Biosynthesis of unsaturated fatty acids
+LOC111349314	Fatty acid elongation
+LOC111349225	Biosynthesis of unsaturated fatty acids
+LOC111349225	Fatty acid elongation
+LOC111353415	Biosynthesis of unsaturated fatty acids
+LOC111353415	Fatty acid elongation
+LOC111355089	Biosynthesis of unsaturated fatty acids
+LOC111355089	Fatty acid elongation
+LOC111350557	cAMP signaling pathway
+LOC111350557	Mineral absorption
+LOC111350557	Adrenergic signaling in cardiomyocytes
+LOC111350557	Pancreatic secretion
+LOC111350557	Proximal tubule bicarbonate reclamation
+LOC111350557	Cardiac muscle contraction
+LOC111350557	Gastric acid secretion
+LOC111350557	Endocrine and other factor-regulated calcium reabsorption
+LOC111350557	Aldosterone-regulated sodium reabsorption
+LOC111350557	Protein digestion and absorption
+LOC111350557	Thyroid hormone synthesis
+LOC111350557	Thyroid hormone signaling pathway
+LOC111350557	Aldosterone synthesis and secretion
+LOC111350557	Bile secretion
+LOC111350557	cGMP-PKG signaling pathway
+LOC111350557	Carbohydrate digestion and absorption
+LOC111350557	Insulin secretion
+LOC111350557	Salivary secretion
+LOC111352514	cAMP signaling pathway
+LOC111352514	Mineral absorption
+LOC111352514	Adrenergic signaling in cardiomyocytes
+LOC111352514	Pancreatic secretion
+LOC111352514	Proximal tubule bicarbonate reclamation
+LOC111352514	Cardiac muscle contraction
+LOC111352514	Gastric acid secretion
+LOC111352514	Endocrine and other factor-regulated calcium reabsorption
+LOC111352514	Aldosterone-regulated sodium reabsorption
+LOC111352514	Protein digestion and absorption
+LOC111352514	Thyroid hormone synthesis
+LOC111352514	Thyroid hormone signaling pathway
+LOC111352514	Aldosterone synthesis and secretion
+LOC111352514	Bile secretion
+LOC111352514	cGMP-PKG signaling pathway
+LOC111352514	Carbohydrate digestion and absorption
+LOC111352514	Insulin secretion
+LOC111352514	Salivary secretion
+LOC111364414	Cell cycle
+LOC111364414	Ubiquitin mediated proteolysis
+LOC111363235	Chemical carcinogenesis
+LOC111363235	Drug metabolism - other enzymes
+LOC111363235	Drug metabolism - cytochrome P450
+LOC111363235	Metabolism of xenobiotics by cytochrome P450
+LOC111363235	Pentose and glucuronate interconversions
+LOC111363235	Porphyrin and chlorophyll metabolism
+LOC111363235	Ascorbate and aldarate metabolism
+LOC111363235	Retinol metabolism
+LOC111363235	Steroid hormone biosynthesis
+LOC111363741	Chemical carcinogenesis
+LOC111363741	Drug metabolism - other enzymes
+LOC111363741	Drug metabolism - cytochrome P450
+LOC111363741	Metabolism of xenobiotics by cytochrome P450
+LOC111363741	Pentose and glucuronate interconversions
+LOC111363741	Porphyrin and chlorophyll metabolism
+LOC111363741	Ascorbate and aldarate metabolism
+LOC111363741	Retinol metabolism
+LOC111363741	Steroid hormone biosynthesis
+LOC111364512	Chemical carcinogenesis
+LOC111364512	Drug metabolism - other enzymes
+LOC111364512	Drug metabolism - cytochrome P450
+LOC111364512	Metabolism of xenobiotics by cytochrome P450
+LOC111364512	Pentose and glucuronate interconversions
+LOC111364512	Porphyrin and chlorophyll metabolism
+LOC111364512	Ascorbate and aldarate metabolism
+LOC111364512	Retinol metabolism
+LOC111364512	Steroid hormone biosynthesis
+LOC111364507	Chemical carcinogenesis
+LOC111364507	Drug metabolism - other enzymes
+LOC111364507	Drug metabolism - cytochrome P450
+LOC111364507	Metabolism of xenobiotics by cytochrome P450
+LOC111364507	Pentose and glucuronate interconversions
+LOC111364507	Porphyrin and chlorophyll metabolism
+LOC111364507	Ascorbate and aldarate metabolism
+LOC111364507	Retinol metabolism
+LOC111364507	Steroid hormone biosynthesis
+LOC111364508	Chemical carcinogenesis
+LOC111364508	Drug metabolism - other enzymes
+LOC111364508	Drug metabolism - cytochrome P450
+LOC111364508	Metabolism of xenobiotics by cytochrome P450
+LOC111364508	Pentose and glucuronate interconversions
+LOC111364508	Porphyrin and chlorophyll metabolism
+LOC111364508	Ascorbate and aldarate metabolism
+LOC111364508	Retinol metabolism
+LOC111364508	Steroid hormone biosynthesis
+LOC111364812	Chemical carcinogenesis
+LOC111364812	Drug metabolism - other enzymes
+LOC111364812	Drug metabolism - cytochrome P450
+LOC111364812	Metabolism of xenobiotics by cytochrome P450
+LOC111364812	Pentose and glucuronate interconversions
+LOC111364812	Porphyrin and chlorophyll metabolism
+LOC111364812	Ascorbate and aldarate metabolism
+LOC111364812	Retinol metabolism
+LOC111364812	Steroid hormone biosynthesis
+LOC111364771	Chemical carcinogenesis
+LOC111364771	Drug metabolism - other enzymes
+LOC111364771	Drug metabolism - cytochrome P450
+LOC111364771	Metabolism of xenobiotics by cytochrome P450
+LOC111364771	Pentose and glucuronate interconversions
+LOC111364771	Porphyrin and chlorophyll metabolism
+LOC111364771	Ascorbate and aldarate metabolism
+LOC111364771	Retinol metabolism
+LOC111364771	Steroid hormone biosynthesis
+LOC111364777	Chemical carcinogenesis
+LOC111364777	Drug metabolism - other enzymes
+LOC111364777	Drug metabolism - cytochrome P450
+LOC111364777	Metabolism of xenobiotics by cytochrome P450
+LOC111364777	Pentose and glucuronate interconversions
+LOC111364777	Porphyrin and chlorophyll metabolism
+LOC111364777	Ascorbate and aldarate metabolism
+LOC111364777	Retinol metabolism
+LOC111364777	Steroid hormone biosynthesis
+LOC111364779	Chemical carcinogenesis
+LOC111364779	Drug metabolism - other enzymes
+LOC111364779	Drug metabolism - cytochrome P450
+LOC111364779	Metabolism of xenobiotics by cytochrome P450
+LOC111364779	Pentose and glucuronate interconversions
+LOC111364779	Porphyrin and chlorophyll metabolism
+LOC111364779	Ascorbate and aldarate metabolism
+LOC111364779	Retinol metabolism
+LOC111364779	Steroid hormone biosynthesis
+LOC111349048	Chemical carcinogenesis
+LOC111349048	Drug metabolism - other enzymes
+LOC111349048	Drug metabolism - cytochrome P450
+LOC111349048	Metabolism of xenobiotics by cytochrome P450
+LOC111349048	Pentose and glucuronate interconversions
+LOC111349048	Porphyrin and chlorophyll metabolism
+LOC111349048	Ascorbate and aldarate metabolism
+LOC111349048	Retinol metabolism
+LOC111349048	Steroid hormone biosynthesis
+LOC111348884	Chemical carcinogenesis
+LOC111348884	Drug metabolism - other enzymes
+LOC111348884	Drug metabolism - cytochrome P450
+LOC111348884	Metabolism of xenobiotics by cytochrome P450
+LOC111348884	Pentose and glucuronate interconversions
+LOC111348884	Porphyrin and chlorophyll metabolism
+LOC111348884	Ascorbate and aldarate metabolism
+LOC111348884	Retinol metabolism
+LOC111348884	Steroid hormone biosynthesis
+LOC111348789	Chemical carcinogenesis
+LOC111348789	Drug metabolism - other enzymes
+LOC111348789	Drug metabolism - cytochrome P450
+LOC111348789	Metabolism of xenobiotics by cytochrome P450
+LOC111348789	Pentose and glucuronate interconversions
+LOC111348789	Porphyrin and chlorophyll metabolism
+LOC111348789	Ascorbate and aldarate metabolism
+LOC111348789	Retinol metabolism
+LOC111348789	Steroid hormone biosynthesis
+LOC111349050	Chemical carcinogenesis
+LOC111349050	Drug metabolism - other enzymes
+LOC111349050	Drug metabolism - cytochrome P450
+LOC111349050	Metabolism of xenobiotics by cytochrome P450
+LOC111349050	Pentose and glucuronate interconversions
+LOC111349050	Porphyrin and chlorophyll metabolism
+LOC111349050	Ascorbate and aldarate metabolism
+LOC111349050	Retinol metabolism
+LOC111349050	Steroid hormone biosynthesis
+LOC111348925	Chemical carcinogenesis
+LOC111348925	Drug metabolism - other enzymes
+LOC111348925	Drug metabolism - cytochrome P450
+LOC111348925	Metabolism of xenobiotics by cytochrome P450
+LOC111348925	Pentose and glucuronate interconversions
+LOC111348925	Porphyrin and chlorophyll metabolism
+LOC111348925	Ascorbate and aldarate metabolism
+LOC111348925	Retinol metabolism
+LOC111348925	Steroid hormone biosynthesis
+LOC111348848	Chemical carcinogenesis
+LOC111348848	Drug metabolism - other enzymes
+LOC111348848	Drug metabolism - cytochrome P450
+LOC111348848	Metabolism of xenobiotics by cytochrome P450
+LOC111348848	Pentose and glucuronate interconversions
+LOC111348848	Porphyrin and chlorophyll metabolism
+LOC111348848	Ascorbate and aldarate metabolism
+LOC111348848	Retinol metabolism
+LOC111348848	Steroid hormone biosynthesis
+LOC111355746	Chemical carcinogenesis
+LOC111355746	Drug metabolism - other enzymes
+LOC111355746	Drug metabolism - cytochrome P450
+LOC111355746	Metabolism of xenobiotics by cytochrome P450
+LOC111355746	Pentose and glucuronate interconversions
+LOC111355746	Porphyrin and chlorophyll metabolism
+LOC111355746	Ascorbate and aldarate metabolism
+LOC111355746	Retinol metabolism
+LOC111355746	Steroid hormone biosynthesis
+LOC111355676	Chemical carcinogenesis
+LOC111355676	Drug metabolism - other enzymes
+LOC111355676	Drug metabolism - cytochrome P450
+LOC111355676	Metabolism of xenobiotics by cytochrome P450
+LOC111355676	Pentose and glucuronate interconversions
+LOC111355676	Porphyrin and chlorophyll metabolism
+LOC111355676	Ascorbate and aldarate metabolism
+LOC111355676	Retinol metabolism
+LOC111355676	Steroid hormone biosynthesis
+LOC111360627	Circadian rhythm - fly
+LOC111354947	Citrate cycl
+LOC111353812	Citrate cycl
+LOC111353812	Glycolysis / Gluconeogenesis
+LOC111353812	Pyruvate metabolism
+LOC111351290	Citrate cycl
+LOC111351290	Lysine degradation
+LOC111353386	Citrate cycl
+LOC111353386	Peroxisome
+LOC111353386	Glutathione metabolism
+LOC111363892	Cysteine and methionine metabolism
+LOC111355648	Cysteine and methionine metabolism
+LOC111354208	Cysteine and methionine metabolism
+LOC111354208	Arginine and proline metabolism
+LOC111353483	Cysteine and methionine metabolism
+LOC111353483	Glycine, serine and threonine metabolism
+LOC111353483	Selenocompound metabolism
+LOC111364781	Cysteine and methionine metabolism
+LOC111364781	Thermogenesis
+LOC111358693	Cytosolic DNA-sensing pathway
+LOC111362640	Dilated cardiomyopath
+LOC111362640	Hypertrophic cardiomyopath
+LOC111356180	ECM-receptor interaction
+LOC111356030	ECM-receptor interaction
+LOC111351775	Endocytosis
+LOC111350872	Ether lipid metabolism
+LOC111350872	Glycerophospholipid metabolism
+LOC111350872	Phosphonate and phosphinate metabolism
+LOC111359388	Ether lipid metabolism
+LOC111359388	Peroxisome
+LOC111350840	Fanconi anemia pathway
+LOC111353598	Fatty acid biosynthesis
+LOC111353598	Prodigiosin biosynthesis
+LOC111353716	Fatty acid elongation
+LOC111350278	FoxO signaling pathway
+LOC111350278	Glucagon signaling pathway
+LOC111353109	Fructose and mannose metabolism
+LOC111353109	Galactose metabolism
+LOC111353109	Glycolysis / Gluconeogenesis
+LOC111353109	RNA degradation
+LOC111353109	Central carbon metabolism in cancer
+LOC111353109	Pentose phosphate pathway
+LOC111353109	AMPK signaling pathway
+LOC111360418	Fructose and mannose metabolism
+LOC111360418	Pentose and glucuronate interconversions
+LOC111360418	Glycerolipid metabolism
+LOC111360418	Folate biosynthesis
+LOC111360418	Galactose metabolism
+LOC111359941	Fructose and mannose metabolism
+LOC111359941	Pentose and glucuronate interconversions
+LOC111359941	Glycerolipid metabolism
+LOC111359941	Folate biosynthesis
+LOC111359941	Galactose metabolism
+LOC111351324	Fructose and mannose metabolism
+LOC111351324	Pentose and glucuronate interconversions
+LOC111351324	Glycerolipid metabolism
+LOC111351324	Folate biosynthesis
+LOC111351324	Galactose metabolism
+LOC111351422	Fructose and mannose metabolism
+LOC111351422	Pentose and glucuronate interconversions
+LOC111351422	Glycerolipid metabolism
+LOC111351422	Folate biosynthesis
+LOC111351422	Galactose metabolism
+LOC111349159	Glutathione metabolism
+LOC111349159	Chemical carcinogenesis
+LOC111349159	Drug metabolism - other enzymes
+LOC111349159	Drug metabolism - cytochrome P450
+LOC111349159	Metabolism of xenobiotics by cytochrome P450
+LOC111349159	Pathways in cancer
+LOC111349159	Fluid shear stress and atherosclerosis
+LOC111349159	Hepatocellular carcinoma
+LOC111349159	Platinum drug resistance
+LOC111347873	Glutathione metabolism
+LOC111347873	Chemical carcinogenesis
+LOC111347873	Drug metabolism - other enzymes
+LOC111347873	Drug metabolism - cytochrome P450
+LOC111347873	Metabolism of xenobiotics by cytochrome P450
+LOC111347873	Pathways in cancer
+LOC111347873	Fluid shear stress and atherosclerosis
+LOC111347873	Hepatocellular carcinoma
+LOC111347873	Platinum drug resistance
+LOC111364724	Glutathione metabolism
+LOC111364724	Chemical carcinogenesis
+LOC111364724	Drug metabolism - other enzymes
+LOC111364724	Drug metabolism - cytochrome P450
+LOC111364724	Metabolism of xenobiotics by cytochrome P450
+LOC111364724	Pathways in cancer
+LOC111364724	Fluid shear stress and atherosclerosis
+LOC111364724	Hepatocellular carcinoma
+LOC111364724	Platinum drug resistance
+LOC111351683	Glutathione metabolism
+LOC111351683	Chemical carcinogenesis
+LOC111351683	Drug metabolism - other enzymes
+LOC111351683	Drug metabolism - cytochrome P450
+LOC111351683	Metabolism of xenobiotics by cytochrome P450
+LOC111351683	Pathways in cancer
+LOC111351683	Fluid shear stress and atherosclerosis
+LOC111351683	Hepatocellular carcinoma
+LOC111351683	Platinum drug resistance
+LOC111351682	Glutathione metabolism
+LOC111351682	Chemical carcinogenesis
+LOC111351682	Drug metabolism - other enzymes
+LOC111351682	Drug metabolism - cytochrome P450
+LOC111351682	Metabolism of xenobiotics by cytochrome P450
+LOC111351682	Pathways in cancer
+LOC111351682	Fluid shear stress and atherosclerosis
+LOC111351682	Hepatocellular carcinoma
+LOC111351682	Platinum drug resistance
+LOC111351681	Glutathione metabolism
+LOC111351681	Chemical carcinogenesis
+LOC111351681	Drug metabolism - other enzymes
+LOC111351681	Drug metabolism - cytochrome P450
+LOC111351681	Metabolism of xenobiotics by cytochrome P450
+LOC111351681	Pathways in cancer
+LOC111351681	Fluid shear stress and atherosclerosis
+LOC111351681	Hepatocellular carcinoma
+LOC111351681	Platinum drug resistance
+LOC111348135	Glycerolipid metabolism
+LOC111359411	Glycerophospholipid metabolism
+LOC111350418	Glycerophospholipid metabolism
+LOC111352416	Glycerophospholipid metabolism
+LOC111356015	Glycerophospholipid metabolism
+LOC111356015	Phosphatidylinositol signaling system
+LOC111356015	Glycerolipid metabolism
+LOC111356015	Choline metabolism in cancer
+LOC111356015	Phospholipase D signaling pathway
+LOC111359018	Glycerophospholipid metabolism
+LOC111359018	Phosphonate and phosphinate metabolism
+LOC111356188	Glycolysis / Gluconeogenesis
+LOC111365025	Glycolysis / Gluconeogenesis
+LOC111365025	Inositol phosphate metabolism
+LOC111360439	Glycolysis / Gluconeogenesis
+LOC111360439	Pentose phosphate pathway
+LOC111360439	Fructose and mannose metabolism
+LOC111348381	Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate
+LOC111352518	Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate
+LOC111360300	Glycosylphosphatidylinosito
+LOC111350678	Glycosylphosphatidylinosito
+LOC111353129	Glycosylphosphatidylinosito
+LOC111354143	Glyoxylate and dicarboxylate metabolism
+LOC111354143	Glycine, serine and threonine metabolism
+LOC111354143	Pyruvate metabolism
+LOC111353922	Glyoxylate and dicarboxylate metabolism
+LOC111353922	Glycine, serine and threonine metabolism
+LOC111353922	Pyruvate metabolism
+LOC111360723	Glyoxylate and dicarboxylate metabolism
+LOC111360723	Propanoate metabolism
+LOC111360723	Pyruvate metabolism
+LOC111360723	Glycolysis / Gluconeogenesis
+LOC111348038	Hedgehog signaling pathway
+LOC111356362	Hedgehog signaling pathway - fly
+LOC111356362	Hedgehog signaling pathway
+LOC111355380	Hematopoietic cell lineage
+LOC111355380	Glutathione metabolism
+LOC111355380	Renin-angiotensin system
+LOC111347882	Herpes simplex infection
+LOC111348965	Herpes simplex infection
+LOC111352609	Human T-cell leukemia virus 1 infection
+LOC111352609	Kaposi sarcoma-associated herpesvirus infection
+LOC111352609	Natural killer cell mediated cytotoxicity
+LOC111352609	Oocyte meiosis
+LOC111352609	Human cytomegalovirus infection
+LOC111352609	Th17 cell differentiation
+LOC111352609	Th1 and Th2 cell differentiation
+LOC111352609	MAPK signaling pathway
+LOC111352609	Cellular senescence
+LOC111352609	VEGF signaling pathway
+LOC111352609	Wnt signaling pathway
+LOC111352609	Oxytocin signaling pathway
+LOC111352609	Alzheimer disease
+LOC111352609	Glucagon signaling pathway
+LOC111352609	Renin secretion
+LOC111352609	Amyotrophic lateral sclerosi
+LOC111352609	Dopaminergic synapse
+LOC111352609	Osteoclast differentiation
+LOC111352609	Glutamatergic synapse
+LOC111352609	Amphetamine addiction
+LOC111352609	Long-term potentiation
+LOC111352609	Tuberculosis
+LOC111352609	B cell receptor signaling pathway
+LOC111352609	T cell receptor signaling pathway
+LOC111352609	C-type lectin receptor signaling pathway
+LOC111352609	Calcium signaling pathway
+LOC111352609	cGMP-PKG signaling pathway
+LOC111352609	Axon guidance
+LOC111363849	Influenza A
+LOC111363849	mRNA surveillance pathway
+LOC111353979	Inositol phosphate metabolism
+LOC111364670	Insect hormone biosynthesis
+LOC111364762	Insect hormone biosynthesis
+LOC111364717	Insect hormone biosynthesis
+LOC111351789	Insect hormone biosynthesis
+LOC111348542	Insulin secretion
+LOC111348542	SNARE interactions in vesicular transport
+LOC111348542	Synaptic vesicle cycle
+LOC111348542	Amphetamine addiction
+LOC111353983	Kaposi sarcoma-associated herpesvirus infection
+LOC111353983	Influenza A
+LOC111353983	Colorectal cancer
+LOC111353983	p53 signaling pathway
+LOC111353983	Hepatitis B
+LOC111353983	Herpes simplex infection
+LOC111353983	Epstein-Barr virus infection
+LOC111353983	Human cytomegalovirus infection
+LOC111353983	Apoptosis
+LOC111353983	Apoptosis - multiple species
+LOC111353983	Apoptosis - fly
+LOC111353983	Parkinson disease
+LOC111353983	Legionellosis
+LOC111353983	Alzheimer disease
+LOC111353983	Huntington disease
+LOC111353983	Amyotrophic lateral sclerosi
+LOC111353983	Small cell lung cancer
+LOC111353983	Tuberculosis
+LOC111353983	Pathways in cancer
+LOC111353983	Viral myocarditis
+LOC111353983	Toxoplasmosis
+LOC111353983	Non-alcoholic fatty liver diseas
+LOC111353983	Platinum drug resistance
+LOC111354777	Kaposi sarcoma-associated herpesvirus infection
+LOC111354777	Natural killer cell mediated cytotoxicity
+LOC111354777	Colorectal cancer
+LOC111354777	Human cytomegalovirus infection
+LOC111354777	Pancreatic cancer
+LOC111354777	Rap1 signaling pathway
+LOC111354777	Ras signaling pathway
+LOC111354777	MAPK signaling pathway
+LOC111354777	MAPK signaling pathway - fly
+LOC111354777	Epstein-Barr virus infection
+LOC111354777	VEGF signaling pathway
+LOC111354777	Viral carcinogenesis
+LOC111354777	Sphingolipid signaling pathway
+LOC111354777	Wnt signaling pathway
+LOC111354777	Renal cell carcinoma
+LOC111354777	Regulation of actin cytoskeleton
+LOC111354777	Toll-like receptor signaling pathway
+LOC111354777	Shigellosis
+LOC111354777	Amyotrophic lateral sclerosi
+LOC111354777	Salmonella infection
+LOC111354777	Osteoclast differentiation
+LOC111354777	Tight junction
+LOC111354777	Neurotrophin signaling pathway
+LOC111354777	Fc gamma R-mediated phagocytosis
+LOC111354777	Fc epsilon RI signaling pathway
+LOC111354777	B cell receptor signaling pathway
+LOC111354777	Pathways in cancer
+LOC111354777	cAMP signaling pathway
+LOC111354777	Fluid shear stress and atherosclerosis
+LOC111354777	Axon guidance
+LOC111354777	Viral myocarditis
+LOC111354777	Chemokine signaling pathway
+LOC111354777	Phagosome
+LOC111354777	Proteoglycans in cancer
+LOC111354777	Focal adhesion
+LOC111354777	Non-alcoholic fatty liver diseas
+LOC111354777	Adherens junction
+LOC111354777	Pancreatic secretion
+LOC111354777	Epithelial cell signaling in Helicobacter pylori infection
+LOC111354777	PI3K-Akt signaling pathway
+LOC111354777	Leukocyte transendothelial migration
+LOC111354777	Choline metabolism in cancer
+LOC111354777	Bacterial invasion of epithelial cells
+LOC111354777	AGE-RAGE signaling pathway in diabetic complications
+LOC111353925	Lipoic acid metabolism
+LOC111349135	Longevity regulating pathway - worm
+LOC111349135	Base excision repair
+LOC111349135	Apoptosis
+LOC111349135	Necroptosis
+LOC111349135	Apoptosis - fly
+LOC111360496	Longevity regulating pathway - worm
+LOC111360496	Insect hormone biosynthesis
+LOC111355716	Lysine degradation
+LOC111355716	Valine, leucine and isoleucine degradation
+LOC111355716	Insect hormone biosynthesis
+LOC111355716	Histidine metabolism
+LOC111355716	Arginine and proline metabolism
+LOC111355716	Ascorbate and aldarate metabolism
+LOC111355716	Tryptophan metabolism
+LOC111355716	Glycolysis / Gluconeogenesis
+LOC111355716	Pyruvate metabolism
+LOC111355716	Fatty acid degradation
+LOC111355716	Glycerolipid metabolism
+LOC111355716	beta-Alanine metabolism
+LOC111359561	MAPK signaling pathway
+LOC111362831	MAPK signaling pathway - fly
+LOC111362831	Ubiquitin mediated proteolysis
+LOC111362831	p53 signaling pathway
+LOC111362831	Wnt signaling pathway
+LOC111348843	Maturity onset diabetes of the young
+LOC111348843	Transcriptional misregulation in cancer
+LOC111361102	MicroRNAs in cancer
+LOC111361102	ABC transporters
+LOC111361102	Bile secretion
+LOC111361102	Gastric cancer
+LOC111349711	MicroRNAs in cancer
+LOC111349711	Aminoacyl-tRNA biosynthesis
+LOC111353161	MicroRNAs in cancer
+LOC111353161	Arginine biosynthesis
+LOC111353161	Proximal tubule bicarbonate reclamation
+LOC111353161	D-Glutamine and D-glutamate metabolism
+LOC111353161	Alanine, aspartate and glutamate metabolism
+LOC111353161	GABAergic synapse
+LOC111353161	Central carbon metabolism in cancer
+LOC111353161	Glutamatergic synapse
+LOC111348030	Mismatch repair
+LOC111348030	Nucleotide excision repair
+LOC111348030	DNA replication
+LOC111364634	mRNA surveillance pathway
+LOC111348424	mRNA surveillance pathway
+LOC111350528	mRNA surveillance pathway
+LOC111351253	mRNA surveillance pathway
+LOC111354763	mRNA surveillance pathway
+LOC111360011	N-Glycan biosynthesis
+LOC111360009	N-Glycan biosynthesis
+LOC111355130	N-Glycan biosynthesis
+LOC111353507	N-Glycan biosynthesis
+LOC111351216	N-Glycan biosynthesis
+LOC111351216	Protein processing in endoplasmic reticulum
+LOC111364822	Nicotinate and nicotinamide metabolism
+LOC111351957	Nicotinate and nicotinamide metabolism
+LOC111360026	One carbon pool by folate
+LOC111350175	One carbon pool by folate
+LOC111355374	One carbon pool by folate
+LOC111355374	Aminoacyl-tRNA biosynthesis
+LOC111363729	Pancreatic secretion
+LOC111363729	Neuroactive ligand-receptor interaction
+LOC111363729	Influenza A
+LOC111363729	Protein digestion and absorption
+LOC111348491	Pancreatic secretion
+LOC111348491	Neuroactive ligand-receptor interaction
+LOC111348491	Influenza A
+LOC111348491	Protein digestion and absorption
+LOC111349016	Pancreatic secretion
+LOC111349016	Neuroactive ligand-receptor interaction
+LOC111349016	Influenza A
+LOC111349016	Protein digestion and absorption
+LOC111349014	Pancreatic secretion
+LOC111349014	Neuroactive ligand-receptor interaction
+LOC111349014	Influenza A
+LOC111349014	Protein digestion and absorption
+LOC111349012	Pancreatic secretion
+LOC111349012	Neuroactive ligand-receptor interaction
+LOC111349012	Influenza A
+LOC111349012	Protein digestion and absorption
+LOC111349011	Pancreatic secretion
+LOC111349011	Neuroactive ligand-receptor interaction
+LOC111349011	Influenza A
+LOC111349011	Protein digestion and absorption
+LOC111348842	Pancreatic secretion
+LOC111348842	Neuroactive ligand-receptor interaction
+LOC111348842	Influenza A
+LOC111348842	Protein digestion and absorption
+LOC111353067	Pancreatic secretion
+LOC111353067	Neuroactive ligand-receptor interaction
+LOC111353067	Influenza A
+LOC111353067	Protein digestion and absorption
+LOC111353058	Pancreatic secretion
+LOC111353058	Neuroactive ligand-receptor interaction
+LOC111353058	Influenza A
+LOC111353058	Protein digestion and absorption
+LOC111353072	Pancreatic secretion
+LOC111353072	Neuroactive ligand-receptor interaction
+LOC111353072	Influenza A
+LOC111353072	Protein digestion and absorption
+LOC111353079	Pancreatic secretion
+LOC111353079	Neuroactive ligand-receptor interaction
+LOC111353079	Influenza A
+LOC111353079	Protein digestion and absorption
+LOC111353055	Pancreatic secretion
+LOC111353055	Neuroactive ligand-receptor interaction
+LOC111353055	Influenza A
+LOC111353055	Protein digestion and absorption
+LOC111353069	Pancreatic secretion
+LOC111353069	Neuroactive ligand-receptor interaction
+LOC111353069	Influenza A
+LOC111353069	Protein digestion and absorption
+LOC111353064	Pancreatic secretion
+LOC111353064	Neuroactive ligand-receptor interaction
+LOC111353064	Influenza A
+LOC111353064	Protein digestion and absorption
+LOC111353063	Pancreatic secretion
+LOC111353063	Neuroactive ligand-receptor interaction
+LOC111353063	Influenza A
+LOC111353063	Protein digestion and absorption
+LOC111353075	Pancreatic secretion
+LOC111353075	Neuroactive ligand-receptor interaction
+LOC111353075	Influenza A
+LOC111353075	Protein digestion and absorption
+LOC111353077	Pancreatic secretion
+LOC111353077	Neuroactive ligand-receptor interaction
+LOC111353077	Influenza A
+LOC111353077	Protein digestion and absorption
+LOC111360687	Pancreatic secretion
+LOC111360687	Salivary secretion
+LOC111360687	Gastric acid secretion
+LOC111360687	Bile secretion
+LOC111348753	Pantothenate and CoA biosynthesis
+LOC111353448	Parkinson disease
+LOC111353448	Calcium signaling pathway
+LOC111353448	Huntington disease
+LOC111353448	Toxoplasmosis
+LOC111353448	cGMP-PKG signaling pathway
+LOC111349296	Pathogenic Escherichia coli infection
+LOC111350084	Pathogenic Escherichia coli infection
+LOC111351894	Pathways in cancer
+LOC111351894	TNF signaling pathway
+LOC111351894	Legionellosis
+LOC111351894	Alzheimer disease
+LOC111351894	Pertussis
+LOC111351894	Apoptosis
+LOC111351894	Non-alcoholic fatty liver diseas
+LOC111351894	Apoptosis - multiple species
+LOC111351894	Apoptosis - fly
+LOC111355257	Pentose and glucuronate interconversions
+LOC111355257	Fructose and mannose metabolism
+LOC111354967	Pentose and glucuronate interconversions
+LOC111354967	Fructose and mannose metabolism
+LOC111352846	Pentose and glucuronate interconversions
+LOC111352846	Metabolism of xenobiotics by cytochrome P450
+LOC111364778	Pentose phosphate pathway
+LOC111359113	Peroxisome
+LOC111356195	Peroxisome
+LOC111355987	Peroxisome
+LOC111354682	Peroxisome
+LOC111354682	Longevity regulating pathway - worm
+LOC111349256	Phagosome
+LOC111349256	Protein export
+LOC111349256	Protein processing in endoplasmic reticulum
+LOC111349256	Vibrio cholerae infection
+LOC111359404	Phosphatidylinositol signaling system
+LOC111359404	Inositol phosphate metabolism
+LOC111349231	Porphyrin and chlorophyll metabolism
+LOC111350658	Porphyrin and chlorophyll metabolism
+LOC111350658	Aminoacyl-tRNA biosynthesis
+LOC111350206	Porphyrin and chlorophyll metabolism
+LOC111350206	Riboflavin metabolism
+LOC111360134	PPAR signaling pathway
+LOC111360369	PPAR signaling pathway
+LOC111360369	Fat digestion and absorption
+LOC111360187	PPAR signaling pathway
+LOC111360187	Fat digestion and absorption
+LOC111360381	PPAR signaling pathway
+LOC111360381	Fat digestion and absorption
+LOC111354766	Propanoate metabolism
+LOC111354766	Pyruvate metabolism
+LOC111354766	Glucagon signaling pathway
+LOC111354766	Fatty acid biosynthesis
+LOC111354766	Insulin signaling pathway
+LOC111354766	AMPK signaling pathway
+LOC111362303	Prostate cancer
+LOC111362303	IL-17 signaling pathway
+LOC111362303	Pathways in cancer
+LOC111362303	PI3K-Akt signaling pathway
+LOC111362303	Thyroid hormone synthesis
+LOC111362303	Fluid shear stress and atherosclerosis
+LOC111362303	Estrogen signaling pathway
+LOC111362303	Protein processing in endoplasmic reticulum
+LOC111364962	Proteasome
+LOC111364962	Antigen processing and presentation
+LOC111364962	Hepatitis C
+LOC111352357	Protein digestion and absorption
+LOC111360377	Protein export
+LOC111352457	Protein export
+LOC111355049	Protein export
+LOC111347810	Protein processing in endoplasmic reticulum
+LOC111350012	Protein processing in endoplasmic reticulum
+LOC111351277	Protein processing in endoplasmic reticulum
+LOC111352574	Protein processing in endoplasmic reticulum
+LOC111353527	Protein processing in endoplasmic reticulum
+LOC111353685	Protein processing in endoplasmic reticulum
+LOC111364798	Proteoglycans in cancer
+LOC111364798	Lysosome
+LOC111354679	Proteoglycans in cancer
+LOC111354679	Lysosome
+LOC111358996	Proteoglycans in cancer
+LOC111358996	Transcriptional misregulation in cancer
+LOC111358996	Spliceosome
+LOC111364676	Purine metabolism
+LOC111352027	Purine metabolism
+LOC111351859	Purine metabolism
+LOC111348263	Pyrimidine metabolism
+LOC111348263	Drug metabolism - other enzymes
+LOC111348654	Pyrimidine metabolism
+LOC111348654	Drug metabolism - other enzymes
+LOC111359969	Pyrimidine metabolism
+LOC111359969	Purine metabolism
+LOC111350669	Pyrimidine metabolism
+LOC111350669	RNA degradation
+LOC111350669	Purine metabolism
+LOC111347834	Pyrimidine metabolism
+LOC111347834	RNA polymerase
+LOC111347834	Huntington disease
+LOC111347834	Purine metabolism
+LOC111351346	Pyrimidine metabolism
+LOC111351346	RNA polymerase
+LOC111351346	Huntington disease
+LOC111351346	Purine metabolism
+LOC111351346	Cytosolic DNA-sensing pathway
+LOC111347892	Pyrimidine metabolism
+LOC111347892	RNA polymerase
+LOC111347892	Purine metabolism
+LOC111358741	Pyrimidine metabolism
+LOC111358741	RNA polymerase
+LOC111358741	Purine metabolism
+LOC111358741	Cytosolic DNA-sensing pathway
+LOC111350717	Pyrimidine metabolism
+LOC111350717	RNA polymerase
+LOC111350717	Purine metabolism
+LOC111350717	Cytosolic DNA-sensing pathway
+LOC111351811	Pyrimidine metabolism
+LOC111351811	RNA polymerase
+LOC111351811	Purine metabolism
+LOC111351811	Cytosolic DNA-sensing pathway
+LOC111355886	Pyruvate metabolism
+LOC111356268	Pyruvate metabolism
+LOC111354384	Pyruvate metabolism
+LOC111354384	Glycolysis / Gluconeogenesis
+LOC111354384	Glucagon signaling pathway
+LOC111354384	Citrate cycl
+LOC111354384	Central carbon metabolism in cancer
+LOC111354384	HIF-1 signaling pathway
+LOC111352974	Renin-angiotensin system
+LOC111352974	Pyruvate metabolism
+LOC111355812	Retinol metabolism
+LOC111355588	Retinol metabolism
+LOC111359416	Ribosome
+LOC111360484	Ribosome
+LOC111360040	Ribosome
+LOC111362054	Ribosome
+LOC111362081	Ribosome
+LOC111362140	Ribosome
+LOC111362251	Ribosome
+LOC111363893	Ribosome
+LOC111363992	Ribosome
+LOC111364715	Ribosome
+LOC111348258	Ribosome
+LOC111364639	Ribosome
+LOC111347964	Ribosome
+LOC111350677	Ribosome
+LOC111350674	Ribosome
+LOC111350662	Ribosome
+LOC111351939	Ribosome
+LOC111351791	Ribosome
+LOC111351780	Ribosome
+LOC111357438	Ribosome
+LOC111352729	Ribosome
+LOC111355349	Ribosome
+LOC111355822	Ribosome
+LOC111359086	Ribosome biogenesis in eukaryotes
+LOC111358928	Ribosome biogenesis in eukaryotes
+LOC111362440	Ribosome biogenesis in eukaryotes
+LOC111347752	Ribosome biogenesis in eukaryotes
+LOC111364968	Ribosome biogenesis in eukaryotes
+LOC111365033	Ribosome biogenesis in eukaryotes
+LOC111349555	Ribosome biogenesis in eukaryotes
+LOC111351297	Ribosome biogenesis in eukaryotes
+LOC111352487	Ribosome biogenesis in eukaryotes
+LOC111352551	Ribosome biogenesis in eukaryotes
+LOC111352286	Ribosome biogenesis in eukaryotes
+LOC111351441	Ribosome biogenesis in eukaryotes
+LOC111354890	Ribosome biogenesis in eukaryotes
+LOC111354428	Ribosome biogenesis in eukaryotes
+LOC111355048	Ribosome biogenesis in eukaryotes
+LOC111355136	Ribosome biogenesis in eukaryotes
+LOC111353436	Ribosome biogenesis in eukaryotes
+LOC111353436	Purine metabolism
+LOC111355449	Ribosome biogenesis in eukaryotes
+LOC111355449	RNA transport
+LOC111355443	Ribosome biogenesis in eukaryotes
+LOC111355443	RNA transport
+LOC111348549	RIG-I-like receptor signaling pathway
+LOC111348549	Fructose and mannose metabolism
+LOC111348549	Glycerolipid metabolism
+LOC111362780	RNA degradation
+LOC111364606	RNA degradation
+LOC111365056	RNA degradation
+LOC111350444	RNA degradation
+LOC111351130	RNA degradation
+LOC111353719	RNA degradation
+LOC111355186	RNA degradation
+LOC111351267	RNA degradation
+LOC111351267	Longevity regulating pathway - worm
+LOC111351267	Tuberculosis
+LOC111353703	RNA degradation
+LOC111353703	Longevity regulating pathway - worm
+LOC111353703	Type I diabetes mellitus
+LOC111353703	Legionellosis
+LOC111353703	Tuberculosis
+LOC111364837	RNA degradation
+LOC111364837	Spliceosome
+LOC111353811	RNA degradation
+LOC111353811	Spliceosome
+LOC111353913	RNA degradation
+LOC111353913	Spliceosome
+LOC111358750	RNA transport
+LOC111359728	RNA transport
+LOC111359815	RNA transport
+LOC111350643	RNA transport
+LOC111351634	RNA transport
+LOC111352050	RNA transport
+LOC111352845	RNA transport
+LOC111353491	RNA transport
+LOC111353130	RNA transport
+LOC111354203	RNA transport
+LOC111353796	RNA transport
+LOC111356248	RNA transport
+LOC111355899	RNA transport
+LOC111355899	Insulin signaling pathway
+LOC111355899	Longevity regulating pathway
+LOC111355899	EGFR tyrosine kinase inhibitor resistance
+LOC111355899	mTOR signaling pathway
+LOC111355899	PI3K-Akt signaling pathway
+LOC111355899	HIF-1 signaling pathway
+LOC111349282	Selenocompound metabolism
+LOC111349282	Monobactam biosynthesis
+LOC111349282	Purine metabolism
+LOC111349282	Sulfur metabolism
+LOC111362664	Shigellosis
+LOC111362664	Spliceosome
+LOC111360450	Sphingolipid metabolism
+LOC111360450	Sphingolipid signaling pathway
+LOC111360032	Sphingolipid metabolism
+LOC111360032	Sphingolipid signaling pathway
+LOC111358837	Spliceosome
+LOC111359188	Spliceosome
+LOC111359059	Spliceosome
+LOC111364460	Spliceosome
+LOC111365063	Spliceosome
+LOC111347789	Spliceosome
+LOC111350256	Spliceosome
+LOC111350727	Spliceosome
+LOC111354728	Spliceosome
+LOC111351945	Spliceosome
+LOC111353265	Spliceosome
+LOC111362929	Starch and sucrose metabolism
+LOC111362929	Galactose metabolism
+LOC111352801	Starch and sucrose metabolism
+LOC111352801	Galactose metabolism
+LOC111352804	Starch and sucrose metabolism
+LOC111352804	Galactose metabolism
+LOC111362884	Starch and sucrose metabolism
+LOC111362884	Glucagon signaling pathway
+LOC111362884	Insulin signaling pathway
+LOC111362884	PI3K-Akt signaling pathway
+LOC111362884	AMPK signaling pathway
+LOC111362884	Insulin resistance
+LOC111354822	Starch and sucrose metabolism
+LOC111354822	Glucagon signaling pathway
+LOC111354822	Insulin signaling pathway
+LOC111354822	PI3K-Akt signaling pathway
+LOC111354822	AMPK signaling pathway
+LOC111354822	Insulin resistance
+LOC111348435	Steroid biosynthesis
+LOC111353200	Steroid hormone biosynthesis
+LOC111359481	Sulfur metabolism
+LOC111353242	Sulfur metabolism
+LOC111350372	Sulfur relay system
+LOC111350372	Folate biosynthesis
+LOC111360092	Systemic lupus erythematosus
+LOC111360092	Spliceosome
+LOC111351314	Systemic lupus erythematosus
+LOC111351314	Spliceosome
+LOC111352656	Systemic lupus erythematosus
+LOC111352656	Spliceosome
+LOC111355477	Terpenoid backbone biosynthesis
+LOC111348606	Thermogenesis
+LOC111350420	Thermogenesis
+LOC111354543	Thermogenesis
+LOC111354879	Thermogenesis
+LOC111355808	Thiamine metabolism
+LOC111352751	Thiamine metabolism
+LOC111352751	Purine metabolism
+LOC111353094	Thiamine metabolism
+LOC111353094	Purine metabolism
+LOC111356968	Thyroid hormone synthesis
+LOC111356968	Protein export
+LOC111356968	Protein processing in endoplasmic reticulum
+LOC111356968	Prion diseases
+LOC111352489	Tryptophan metabolism
+LOC111352489	Phenylalanine metabolism
+LOC111352489	Tyrosine metabolism
+LOC111352489	Dopaminergic synapse
+LOC111352489	Alcoholism
+LOC111352489	Serotonergic synapse
+LOC111352489	Cocaine addiction
+LOC111352489	Amphetamine addiction
+LOC111365092	Tyrosine metabolism
+LOC111350267	Ubiquinone and other terpenoid-quinone biosynthesis
+LOC111355503	Ubiquitin mediated proteolysis
+LOC111362833	Ubiquitin mediated proteolysis
+LOC111362833	p53 signaling pathway
+LOC111352022	Ubiquitin mediated proteolysis
+LOC111352022	Spliceosome
+LOC111355158	Valine, leucine and isoleucine degradation
+LOC111350763	Valine, leucine and isoleucine degradation
+LOC111349266	Valine, leucine and isoleucine degradation
+LOC111349266	Propanoate metabolism
+LOC111355409	Valine, leucine and isoleucine degradation
+LOC111355409	Propanoate metabolism
+LOC111360680	Viral carcinogenesis
+LOC111352273	Viral carcinogenesis
+LOC111348192	Vitamin digestion and absorption
+LOC111349140	Wnt signaling pathway
