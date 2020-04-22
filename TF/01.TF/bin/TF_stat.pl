@@ -10,10 +10,8 @@ if( @ARGV<1 ){
 my $tffamily = "/mnt/ilustre/centos7users/meng.luo/Pipeline/RNA/Pipeline/08.TF/db/TF_family_new.fa.txt";
 my $result = shift;
 
-
 my %gene = ();
 my %TF_family = ();
-
 my %num;
 open (FAMILY, "< $tffamily")|| die ("Could not open  file $tffamily !\n");
 my $head = <FAMILY>;
@@ -27,7 +25,6 @@ while(<FAMILY>){
 	$TF_family{$line[1]} = $line[2];
 }
 close FAMILY;
-
 open (FILE, "< $result")|| die ("Could not open  file $result !\n");
 my $head2 = <FILE>;
 while(<FILE>){
