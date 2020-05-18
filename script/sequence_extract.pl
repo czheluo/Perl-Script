@@ -19,11 +19,11 @@ open IN,$in;
 my %seq;
 $/ = ">";
 while(<IN>){
-		chomp;
-		next if ($_ eq "" || /^$/);
-		my ($chr,$seq) = split(/\n/,$_,2);
-		$seq =~ s/\n//g;
-		$seq{$chr} = $seq;
+	chomp;
+	next if ($_ eq "" || /^$/);
+	my ($chr,$seq) = split(/\n/,$_,2);
+	$seq =~ s/\n//g;
+	$seq{$chr} = $seq;
 }
 #print Dumper %seq;die;
 close IN;
@@ -55,7 +55,7 @@ print STDOUT "\nDone. Total elapsed time : ",time()-$BEGIN_TIME,"s\n";
 #######################################################################################
 sub USAGE {#
         my $usage=<<"USAGE";
-Contact:        minghao.zhang\@majorbio.com;
+Contact:        meng.luo\@majorbio.com;
 Script:			$Script
 Description:
 
