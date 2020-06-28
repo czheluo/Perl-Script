@@ -244,5 +244,6 @@ bowtie -f -n 1 -e 80 -l 18 -a -m 5 --best --strata --al M.clean.1.mapped --un M.
 
 python setup.py install --prefix=/mnt/ilustre/centos7users/meng.luo/.env/bin
 
-
+# 
+jupyter nbconvert --to html *
 
