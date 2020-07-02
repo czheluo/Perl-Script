@@ -155,8 +155,11 @@ Description:
 	
 Usage:
   Options:
-	-int input file name
-	-out output file name 
+	-int input dir of *.emapper.annotations.orthologs
+	-out output dir 
+	-cog  NOG.funccat.txt
+	-fun	fun2003-2014.tab
+	-result anno result of eggNOG_result.xls
 	-h         Help
 
 USAGE
