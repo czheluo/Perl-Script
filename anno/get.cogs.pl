@@ -17,6 +17,8 @@ GetOptions(
 	"out:s"=>\$fout,
 			) or &USAGE;
 &USAGE unless ($fout);
+$cog||="/mnt/ilustre/centos7users/meng.luo/project/zhangximei_MJ20170626026/eggnog/assemble_result/ln-10_89/08.eggNOG/NOG.funccat.txt";
+$fun||="/mnt/ilustre/centos7users/meng.luo/project/zhangximei_MJ20170626026/eggnog/assemble_result/ln-10_89/08.eggNOG/fun2003-2014.tab";
 open CO,$cog;
 my %cos;
 while (<CO>) {
