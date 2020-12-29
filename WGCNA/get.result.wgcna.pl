@@ -3,7 +3,7 @@ use strict;
 use warnings;
 my $BEGIN_TIME=time();
 use Getopt::Long;
-my ($fin,$fout,$fa,$genus,$asv);
+my ($fin,$fout,$fa,$genus,$rr,$asv);
 use Data::Dumper;
 use FindBin qw($Bin $Script);
 use File::Basename qw(basename dirname);
@@ -11,6 +11,7 @@ my $version="1.0.0";
 GetOptions(
 	"help|?" =>\&USAGE,
 	"int:s"=>\$fin,
+	"r:s"=>\$rr,
 	"asv:s"=>\$asv,
 	"family:s"=>\$fa,
 	"genus:s"=>\$genus,
@@ -43,7 +44,8 @@ while (<GE>) {
 }
 close GE;
 open In,$asv;
-open Out,">$fout/pair_R_pvalue.reult.xls";
+my $files=join("","pair_R_pvalue.reult",$rr,".xls");
+open Out,">$fout/$files";
 my %mods;
 while (<In>) {
 	chomp;
@@ -52,10 +54,11 @@ while (<In>) {
 	#my($module,$asv,$r,$alls)=split/\s/,$_,3;
 	#$alls =~ s/\r//g;
 	#print $alls;die;
-	next if(abs($r)<0.29);
+	next if(abs($r)<$rr);
 	#next if($p>0.01);
 	next if($p =~ "NA");
 	#print $p;die;
+	$gen=~s/\r//g;
 	my $mf=join("-",$module,$fa);
 	my $mg=join("-",$module,$gen);
 	#$mods{$module}{$asv}=join("\t",$r,$p,$fa,$gen);
@@ -72,7 +75,7 @@ while (<In>) {
 }
 close Out;
 close In;
-open AS,"<$fout/pair_R_pvalue.reult.xls";
+open AS,"<$fout/$files";
 my %mods;
 while (<AS>) {
 	chomp;
@@ -83,7 +86,9 @@ while (<AS>) {
 }
 close AS;
 #print Dumper %mods;die;
-open OUT,">$fout/pair.result.xls";
+my $fil=join("","pair.result",$rr,".xls");
+open OUT,">$fout/$fil";
+print OUT "modules\tASV\tr\tp\tfamily\tr\tp\tgenus\tr\tp\tGO\tdescription\tp_bonferroni\ttype\tgenes\tgene numbers\tRich factor\n";
 my @files=glob("$fin/*.xls");
 foreach my $file (@files) {
 	my $fna=basename($file);
@@ -101,9 +106,11 @@ foreach my $file (@files) {
 		foreach my $modu (sort keys %mods){
 			if (exists $mods{$mod}) {
 				foreach my $asvs (sort keys %{$mods{$modu}}){
-					print OUT "$mod\t$asvs\t$mods{$modu}{$asvs}\t$all[0]\t$all[2]\t$all[6]\t$all[7]\t$all[8]\n";
+					my @rs=split/\//,$all[3];
+					my @rp=split/\//,$all[4];
+					my $rf=$rs[0]/$rp[0];
+					print OUT "$mod\t$asvs\t$mods{$modu}{$asvs}\t$all[0]\t$all[2]\t$all[6]\t$all[7]\t$all[8]\t$rs[0]\t$rf\n";
 				}
-			
 			}
 		}
 	}
@@ -139,7 +146,7 @@ Contact:        meng.luo\@majorbio.com;
 Script:			$Script
 Description:
 
-	eg: perl $Script -family pair_R_pvalue.family.xls -genus pair_R_pvalue.genus.xls -asv pair_R_pvalue.ASV.txt  -out ./ -int GO/ 
+	eg:perl $Script -family pair_R_pvalue.family.xls -genus pair_R_pvalue.genus.xls -asv pair_R_pvalue.ASV.txt  -out ./ -int GO/ -r 0.1
 	
 Usage:
   Options:
