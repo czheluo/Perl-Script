@@ -73,7 +73,7 @@ Contact:        meng.luo\@majorbio.com;
 Script:			$Script
 Description:
 
-	eg: perl -int filename -out filename 
+	eg: perl -int list -node network.nodes.txt -edge network.edges.txt -out ./
 	
 Usage:
   Options:
