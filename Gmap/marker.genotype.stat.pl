@@ -21,7 +21,7 @@ open IN,$fin;
 my %hash;
 while (<IN>){
 	chomp;
-	next if ($_ eq ""|| /^$/ || /#/ || /\=/);
+	next if ($_ eq /^$/ || /#/ || /\=/);
 	my ($marker,$gtype,$info)=split(/\t/,$_,3);
 	$gtype=~s/>//g;
 	$gtype=~s/<//g;
@@ -32,42 +32,76 @@ close IN;
 open IN,$Fin;
 my %stat;
 my $gtype;
+my %stats;
 while (<IN>){
 	chomp;
 	next if ($_ eq ""|| /^$/ || /^#/);
 	my ($chr,$pos,$id,$ref,$alt,$data)=split(/\s+/,$_,6);
+	my $ids=join("-",$chr,$pos);
 	my @alt = join(",",$ref,$alt);
 	my %len;
 	foreach my $ale (@alt) {
 		$len{length($ale)}=1;
 	}
-	if (exists $hash{$id}){
-		$gtype=$hash{$id};
-		if (scalar keys %len > 1) {
-			$stat{$chr}{$gtype}{indel}++;
+	my $les=length($alt);
+	if (exists $hash{$ids}){
+		$gtype=$hash{$ids};
+		if ($les > 1) {
+			#print "$ids\t$hash{$ids}\tindel\t$alt\n";
+			$stat{$chr}{indel}++;
+			$stats{$gtype}{indel}++;
 		}else{
-			$stat{$chr}{$gtype}{snp}++;
+			#print "$ids\t$hash{$ids}\tSNP\t$alt\n";
+			$stat{$chr}{snp}++;
+			$stats{$gtype}{snp}++;
 		}
 	}
 }
+
 close IN;
 #print Dumper \%stat;die;
-open OUT,">$fout";
-print OUT "chr\ttype\tsnp\tindel\n";
-foreach my $chr (sort keys %stat) {
-	foreach my $gtype(sort keys %{$stat{$chr}}) {
-		$stat{$chr}{$gtype}{snp}||=0;
-		$stat{$chr}{$gtype}{indel}||=0;
-		print OUT join("\t",$chr,$gtype,$stat{$chr}{$gtype}{snp},$stat{$chr}{$gtype}{indel}),"\n";
-	}
+open OUT,">$fout/$fin.type.stat.xls";
+print OUT "type\tsnp\tindel\n";
+my $snp1=0;
+my $indel1=0;
+foreach my $type (sort keys %stats){
+	#print $type;
+	$stats{$type}{snp}||=0;
+	$stats{$type}{indel}||=0;
+	$snp1=$snp1+$stats{$type}{snp};
+	$indel1=$indel1+$stats{$type}{indel};
+	print OUT join("\t",$type,$stats{$type}{snp},$stats{$type}{indel}),"\n";	
 }
+print OUT "Total\t$snp1\t$indel1";
+open OUT1,">$fout/$fin.LG.stat.xls";
+print OUT1 "LG\tsnp\tindel\n";
+my $snp2=0;
+my $indel2=0;
+foreach my $chrs (sort keys %stat){
+	$stat{$chrs}{snp}||=0;
+	$stat{$chrs}{indel}||=0;
+	$snp2=$snp2+$stat{$chrs}{snp};
+	$indel2=$indel2+$stat{$chrs}{indel};
+	#$chrs=~s/chr/LG/g;
+	print OUT1 join("\t",$chrs,$stat{$chrs}{snp},$stat{$chrs}{indel}),"\n";	
+}
+#print  Dumper \%stat;die;
+print OUT1 "Total\t$snp2\t$indel2";
+#foreach my $chr (sort keys %stat) {
+#	foreach my $gtype(sort keys %{$stat{$chr}}) {
+#		$stat{$chr}{$gtype}{snp}||=0;
+#		$stat{$chr}{$gtype}{indel}||=0;
+#		print OUT join("\t",$chr,$gtype,$stat{$chr}{$gtype}{snp},$stat{$chr}{$gtype}{indel}),"\n";
+#	}
+#}
+close OUT1;
 close OUT;		
 #######################################################################################
 print STDOUT "\nDone. Total elapsed time : ",time()-$BEGIN_TIME,"s\n";
 #######################################################################################
 sub USAGE {#
         my $usage=<<"USAGE";
-Contact:        minghao.zhang\@majorbio.com;
+Contact:        meng.luo\@majorbio.com;
 Script:			$Script
 Description:
 	fq thanslate to fa format
